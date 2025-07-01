@@ -1,4 +1,3 @@
-Here is your properly formatted and cleaned-up `README.md` file for your **Clove Dental Landing Page** project. It's written in valid **Markdown syntax**, and all sections are correctly structured for GitHub:
 
 ---
 
@@ -119,5 +118,4 @@ This project is licensed for educational/demo use only. Not affiliated with Clov
 - Make sure indentation is consistent (use spaces, not tabs).
 - Once saved and pushed to GitHub, it will auto-render on your repository homepage.
 
-Let me know if you'd like help publishing it on GitHub Pages or want me to generate a social preview image.
 ```
