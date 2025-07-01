@@ -1,8 +1,6 @@
 
 ---
 
-### ✅ Final `README.md`
-
 ```markdown
 # 🦷 Clove Dental Landing Page
 
@@ -90,9 +88,8 @@ clove-dental-landing/
 
 You can deploy this project using:
 
-* [GitHub Pages](https://pages.github.com/)
-* [Netlify](https://www.netlify.com/)
-* [Vercel](https://vercel.com/)
+* [GitHub Repository](https://github.com/Saichandanyadav/clove-dental-landing)
+* [Vercel](https://clove-dental-landing.vercel.app/)
 
 ---
 
@@ -108,14 +105,3 @@ Frontend Developer | Designer | Tech Enthusiast
 
 This project is licensed for educational/demo use only. Not affiliated with Clove Dental.
 
-```
-
----
-
-### ✅ Tips
-
-- Save this as `README.md` in the **root of your project folder**.
-- Make sure indentation is consistent (use spaces, not tabs).
-- Once saved and pushed to GitHub, it will auto-render on your repository homepage.
-
-```
