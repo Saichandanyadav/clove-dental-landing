@@ -1070,4 +1070,8 @@ body {
     color: white;
   }
 
+  .brand-heading {
+    text-align: center;
+  }
+
 }
